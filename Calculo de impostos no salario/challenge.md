@@ -5,9 +5,9 @@ Faça um programa que calcule e imprima o salário a ser transferido para um fun
 
 Para calcular o valorImpostos, seguem as aliquotas (baseadas no valor do salário bruto):
 
-    `De R$ 0.00 a R$ 1100.00 = 5.00%
+    De R$ 0.00 a R$ 1100.00 = 5.00%
     De R$ 1100.01 a R$ 2500.00 = 10.00%
-    Maior que R$ 2500.00 = 15.00%`
+    Maior que R$ 2500.00 = 15.00%
 
 ## Entrada
 A entrada consiste em vários arquivos de teste, que conterá o valor do salário bruto `(valorSalario)` e adicional dos benefícios `(valorBeneficios)`. Conforme mostrado no exemplo de entrada a seguir.
